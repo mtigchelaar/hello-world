@@ -1,2 +1,3 @@
 # hello-world
-A repository to practice using git(hub) with.
+
+This github repository is just a way to practice creating branches and committing changes to the master. These are just some edits to the README file to do just that.
